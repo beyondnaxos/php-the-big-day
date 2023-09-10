@@ -11,4 +11,3 @@ elseif ($isAllowedToEnter == "Non") {
 else {
     echo "Euh, je ne connais pas ton âge, tu peux me le rappeler s'il te plaît ?";
 }
-?>

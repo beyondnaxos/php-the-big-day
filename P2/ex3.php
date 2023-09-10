@@ -5,7 +5,6 @@ $recipe = [
     'author' => 'laurene.castor@exemple.com',
 ];
 
-foreach($recipe as $property => $propertyValue)
-{
+foreach ($recipe as $property => $propertyValue) {
     echo '[' . $property . '] vaut ' . $propertyValue . PHP_EOL;
 }
